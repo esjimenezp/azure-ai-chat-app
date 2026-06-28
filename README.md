@@ -119,3 +119,4 @@ python chat-app.py
 ---
 
 ## 💬 Usage Example
+<img width="769" height="614" alt="Screenshot 2026-06-28 at 8 10 06 a m" src="https://github.com/user-attachments/assets/6e1e11e9-ec8b-4cb8-ae25-016923e5c05b" />
