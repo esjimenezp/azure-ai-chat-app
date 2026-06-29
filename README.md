@@ -567,7 +567,7 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) file f
 ## 👨‍💼 About the Developer
 
 **Eduardo Padilla**
-- 🎯 Cloud & AI Engineering | Azure Certified
+- 🎯 Cloud & AI
 - 💼 Building enterprise AI solutions
 - 📧 Contact: eduardosamuelpadilla@outlook.com
 - 🔗 GitHub: https://github.com/esjimenezp
