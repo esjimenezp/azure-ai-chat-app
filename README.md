@@ -420,15 +420,6 @@ except Exception as ex:
 3. **Batch requests**: Combine multiple queries when possible
 4. **Clean up resources**: Delete Foundry projects when testing complete
 
-### Delete Resources (Important!)
-```bash
-# Delete entire resource group (CAREFUL - deletes everything)
-az group delete --name foundry-eduardo-dev --yes
-
-# Or manually in Azure Portal:
-# Home → Resource groups → select group → Delete resource group
-```
-
 ---
 
 ## 🧪 Testing & Validation
